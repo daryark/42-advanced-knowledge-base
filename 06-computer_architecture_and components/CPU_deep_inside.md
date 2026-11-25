@@ -3,7 +3,7 @@
 #### Transistors
 Transistor is a smallest unit
 
-<details>
+<details open>
 <summary>Crazy deep into transistors. Semiconductors. Physics </summary>
 
 #### How semiconductor is made from inside, why is it semi?
