@@ -17,7 +17,7 @@ But to properly tranfer the electric current it needs a mix with a little amount
 
 Combination of N-type and P-type regions create the working transistor.
 
-> [!WARNING]
+> WARNING!
 > There's a misconseption that N-type transistors are negitively charged and P-type transistors positively charged. In reality they are neutral, because the amount of protons and electrons in them are equal and has regions with (-) and (+) current. [*3](#sources)
 </details>
 
