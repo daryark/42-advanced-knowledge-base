@@ -20,3 +20,7 @@ As soon as new Advanced Core system is going to be used since 1 January 2027 the
 <br/>
 
 Completed projects list appears here as soon as any is done.
+
+
+*<sub>P.S. Some infos may be dubbed in Ukrainian/Russian as my native languages and there can be minor mistakes in English descriptions.
+<br />But English is still the primary language of this knowledge base and has a full information about every topic.</sub>*
